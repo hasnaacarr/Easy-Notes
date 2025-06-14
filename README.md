@@ -22,7 +22,7 @@ Basit, kullanıcı dostu bir not alma uygulamasıdır. Kotlin diliyle ve Android
 ---
 
 ## 📂 Proje Yapısı
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4eccb6bd-bdb4-4d79-92dc-ee2bfdb5cc55)
 
 
 ## 🚀 Kurulum ve Çalıştırma
