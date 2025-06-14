@@ -22,7 +22,11 @@ Basit, kullanıcı dostu bir not alma uygulamasıdır. Kotlin diliyle ve Android
 ---
 
 ## 📂 Proje Yapısı
-![image](https://github.com/user-attachments/assets/4eccb6bd-bdb4-4d79-92dc-ee2bfdb5cc55)
+## 📱 Uygulama Görünümü
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hasnaacarr/Easy-Notes/main/screenshots/main_screen.png" width="300"/>
+</p>
 
 
 ## 🚀 Kurulum ve Çalıştırma
