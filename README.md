@@ -28,9 +28,9 @@ Basit, kullanıcı dostu bir not alma uygulamasıdır. Kotlin diliyle ve Android
 - NoteAdapter.kt
 - NotesDBHelper.kt
 
-activity_main.xml
-activity_add_note.xml
-note_item.xml
+- activity_main.xml
+- activity_add_note.xml
+- note_item.xml
 
 
 
