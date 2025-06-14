@@ -23,21 +23,18 @@ Basit, kullanıcı dostu bir not alma uygulamasıdır. Kotlin diliyle ve Android
 
 ## 📂 Proje Yapısı
 
-EasyNotes/
-├── app/
-│   └── src/
-│       └── main/
-│           ├── java/com/example/easynotes/
-│           │   ├── MainActivity.kt
-│           │   ├── AddNoteActivity.kt
-│           │   ├── Note.kt
-│           │   ├── NoteAdapter.kt
-│           │   └── NotesDBHelper.kt
-│           └── res/
-│               └── layout/
-│                   ├── activity_main.xml
-│                   ├── activity_add_note.xml
-│                   └── note_item.xml
+
+│java/com/example/easynotes/
+MainActivity.kt
+AddNoteActivity.kt
+Note.kt
+NoteAdapter.kt
+NotesDBHelper.kt
+ res/
+layout/
+activity_main.xml
+activity_add_note.xml
+note_item.xml
 
 
 ## 🚀 Kurulum ve Çalıştırma
