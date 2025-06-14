@@ -22,11 +22,11 @@ Basit, kullanıcı dostu bir not alma uygulamasıdır. Kotlin diliyle ve Android
 ---
 
 ## 📂 Proje Yapısı
-MainActivity.kt
-AddNoteActivity.kt
-Note.kt
-NoteAdapter.kt
-NotesDBHelper.kt
+- MainActivity.kt
+- AddNoteActivity.kt
+- Note.kt
+- NoteAdapter.kt
+- NotesDBHelper.kt
 
 activity_main.xml
 activity_add_note.xml
